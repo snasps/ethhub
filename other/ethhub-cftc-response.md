@@ -15,9 +15,10 @@ Ether is the fundamental cryptocurrency used on the Ethereum network. It is used
 
 #### 2. What are the current functionalities and capabilities of Ether and the Ethereum Network as compared to the functionalities and capabilities of Bitcoin?
 
-Bitcoin and Ethereum are currently both secured by a Proof of Work blockchain. However, the core difference is that Ethereum has smart contract functionality that allows for the development and deployment of decentralized applications. 
+Bitcoin and Ethereum are currently both secured by a Proof of Work blockchain. However, the core difference is that Ethereum can be used to create very complex applications that run on the Ethereum Network. Those decentralised applications "dApps" can vary from complex financial tools, like derivatives & stable coins to Legal applications similar to contracts ("If this then that"), to games like the famous cryptokitties.
+What makes those applications really distingtive, is that once they are deployed on the Ethereum Network, they can openly be "called" (used) by anyone accessing the network, without possibility of censorship or exclusivity.
 
-The functionality of the underlying asset Ether is actually very similar to Bitcoin.  
+The functionality of the underlying asset Ether on the blockchain is actually very similar to Bitcoin, in a way that it is used as a compensation for miners securing the network, and as a medium to pay for transation fees for using the netwok.  
 
 #### 3. How is the developer community currently utilizing the Ethereum Network? More specifically, what are prominent use cases or examples that demonstrate the functionalities and capabilities of the Ethereum Network?
 
