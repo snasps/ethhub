@@ -11,11 +11,13 @@ _**From the CFTC: In providing your responses, please be as specific as possible
 
 It's first vitally important to distinguish between Ether and Ethereum. Ethereum is an open-source, blockchain-based computing system. Leveraging smart contract (scripting) technology, anyone is able to build and deploy decentralized applications on top of Ethereum. This is very attractive for development because you are able to create programs that run exactly as programmed, trustlessly and with no down time.
 
+The Bitcoin Network is quite limited in the fact that it more or less only enables simple exchange of value (in BTC) between accounts, and has a relatively limited scripting language that enables slightly more complicated operations, like multi-signature wallets for example. This lack of functionalities prompted the creators of Ethereum to design it in a way to support a more expressive and rich language called Solidity, which can be used to create almost any application (Turing complete). 
+
 Ether is the fundamental cryptocurrency used on the Ethereum network. It is used to compensate miners for performing transactions on the network. Ether also has many other developing use cases such as money, store of value, and value transfer.
 
 #### 2. What are the current functionalities and capabilities of Ether and the Ethereum Network as compared to the functionalities and capabilities of Bitcoin?
 
-Bitcoin and Ethereum are currently both secured by a Proof of Work blockchain. However, the core difference is that Ethereum has smart contract functionality that allows for the development and deployment of decentralized applications. 
+Bitcoin and Ethereum are currently both secured by a Proof of Work blockchain. However, the core difference is that Ethereum has smart contract functionality that allows for the development and deployment of decentralized applications
 
 The functionality of the underlying asset Ether is actually very similar to Bitcoin.  
 
