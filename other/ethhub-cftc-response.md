@@ -25,7 +25,7 @@ The simplest use case of the Ethereum network is value transfer by sending Ether
 
 #### 4. Are there any existing or developing commercial enterprises that are using Ether to power economic transactions? If so, how is Ether recorded for accounting purposes in a comprehensive set of financial statements?
 
-The Enterprise Ethereum Alliance is a large group of commercial enterprises decidated to building out standards for Enterprise Ethereum. 
+The Enterprise Ethereum Alliance is a large group of commercial enterprises decidated to building out standards for Enterprise Ethereum. The Enterprise Ethereum Alliance & Hyperledger who is a leading enterprise blockchain effort lead by The Linux Foundation ahve also recently [announced](https://www.hyperledger.org/announcements/2018/10/01/enterprise-ethereum-alliance-and-hyperledger-to-advance-the-global-blockchain-business-ecosystem) a collaboration inititative to implement common standards.
 
 #### 5. What data sources, analyses, calculations, variables, or other factors could be used to determine Ether’s market size, liquidity, trade volume, types of traders, ownership concentration, and/or principal ways in which the Ethereum Network is currently being used by market participants?
 
